@@ -1,0 +1,21 @@
+{
+  "name": "saludo-personalizado-app",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 - Función saludoPersonalizado modularizada con ES Modules e interacción por consola usando readline/promises.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "es-modules",
+    "ejercicio"
+  ],
+  "author": "",
+  "license": "ISC"
+}
